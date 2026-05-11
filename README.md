@@ -1,5 +1,5 @@
 # prac-6-12
-# ques 7
+# ques 7 GCD Using Recursion
  include <iostream>
 using namespace std;
 
@@ -25,7 +25,7 @@ int main()
     return 0;
 }
 
-# 7b
+# 7b GCD Without Recursion
  include <iostream>
 using namespace std;
 
@@ -48,7 +48,7 @@ int main()
     return 0;
 }
 
-# ques 8
+# ques 8 Matrix Class Program
  include <iostream>
 using namespace std;
 
@@ -193,7 +193,7 @@ int main()
     return 0;
 }
 
-# ques 9
+# ques 9 Person, Student and Employee Class
  include <iostream>
 using namespace std;
 
@@ -290,7 +290,7 @@ int main()
     return 0;
 }
 
-# ques 10
+# ques 10 Triangle Class with Exception Handling
  include <iostream>
  include <cmath>
 using namespace std;
@@ -357,7 +357,7 @@ int main()
     return 0;
 }
 
-# ques 11
+# ques 11 Store and Retrieve Student Records from File
  include <iostream>
  include <fstream>
 using namespace std;
@@ -431,7 +431,7 @@ int main()
     return 0;
 }
 
-# ques 12
+# ques 12 Copy One File to Another Without Whitespaces
  include <iostream>
  include <fstream>
 using namespace std;
